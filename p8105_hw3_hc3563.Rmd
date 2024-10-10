@@ -1,0 +1,12 @@
+---
+title: "p8015_hw3_hc3563"
+author: "Hanchuan Chen"
+date: "2024-10-10"
+output: github_document
+---
+
+### Problem 1
+
+### Problem 2
+
+### Problem 3
